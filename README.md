@@ -1,4 +1,7 @@
-# test coverage for  [grunt-ng-annotate (v3.0.0)](https://github.com/mgol/grunt-ng-annotate)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-ng-annotate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-ng-annotate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-ng-annotate.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-ng-annotate)
+# npmtest-grunt-ng-annotate
+
+#### basic test coverage for  [grunt-ng-annotate (v3.0.0)](https://github.com/mgol/grunt-ng-annotate)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-ng-annotate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-ng-annotate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-ng-annotate.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-ng-annotate)
+
 #### Add, remove and rebuild AngularJS dependency injection annotations.
 
 [![NPM](https://nodei.co/npm/grunt-ng-annotate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-ng-annotate)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-ng-annotate/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-ng-annotate/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-ng-annotate/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-ng-annotate/build/coverage.html/index.html)
 
@@ -108,7 +111,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 

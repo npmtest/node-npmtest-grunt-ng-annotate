@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [grunt-ng-annotate (v3.0.0)](https://github.com/mgol/grunt-ng-annotate) [![npm package](https://img.shields.io/npm/v/npmtest-grunt-ng-annotate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-ng-annotate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-ng-annotate.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-ng-annotate)",
+    "description": "#### basic test coverage for  [grunt-ng-annotate (v3.0.0)](https://github.com/mgol/grunt-ng-annotate)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-ng-annotate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-ng-annotate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-ng-annotate.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-ng-annotate)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "grunt-ng-annotate": "*",
